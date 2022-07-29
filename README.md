@@ -117,7 +117,8 @@ SQL PostgreSQL
 Ключевые слова проекта:
 обработка данных, выгрузка данных, SQL
 
-Ссылка на проект в тренажере: https://practicum.yandex.ru/trainer/data-analyst/lesson/56371244-86ae-4cf4-9495-dfdcf746bee1/task/66503362-070f-4b1a-9053-daac31158222/?hideTheory=1
+Ссылка на проект в тренажере:
+practicum.yandex.ru/trainer/data-analyst/lesson/56371244-86ae-4cf4-9495-dfdcf746bee1/task/66503362-070f-4b1a-9053-daac31158222/?hideTheory=1
 ------
 
 7. Анализ убытков приложения ProcrastinatePRO+
@@ -213,8 +214,11 @@ Python, SQLAlchemy, PostgreSQL, dash, Tableau, продуктовые метри
 Ключевые слова проекта:
 дашборд, пайплайн, Yandex.Cloud, удаленный сервер, виртуальная машина, cron
 
-Ссылка на дашборд: https://public.tableau.com/app/profile/sergey7394/viz/Project1Tableau_16498465873070/Dashboard2?publish=yes
-Ссылка на презентацию: https://drive.google.com/open?id=12mY3PBzTVYP2zTbgM5tyQd_Yf666lsYQ&authuser=7956125%40gmail.com&usp=drive_fs
+Ссылка на дашборд:
+public.tableau.com/app/profile/sergey7394/viz/Project1Tableau_16498465873070/Dashboard2?publish=yes
+
+Ссылка на презентацию:
+https://drive.google.com/open?id=12mY3PBzTVYP2zTbgM5tyQd_Yf666lsYQ&authuser=7956125%40gmail.com&usp=drive_fs
 ------
 
 12. Прогнозирование вероятности оттока пользователей для фитнес-центров
