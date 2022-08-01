@@ -247,8 +247,11 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучен
 Описание исследования:
 На основе всех полученных данных в курсе выполнить буткемп-проект в области мобильные приложения.
 Проект делился на 3 части.
+
 В основной части ("[Анализ поведения пользователей в мобильном приложении](https://github.com/Gazonvazon/StudyProjects/blob/main/13_Analysis_user_behavior_in_mobile_app/Analysis_user_behavior_in_mobile_app.ipynb)") были выделены основные сценарии использования приложения (написан собственный метод для выделения возможных цепочек событий), оценены работающие и неработающие "фичи", даны рекомендации что можно улучшить. По результатам анализа подготовлен дашборд и презентация. 
+
 Во второй части ("[A/B-тестирование recommender_system_test](https://github.com/Gazonvazon/StudyProjects/blob/main/13_recommender_system_test_AB_test/recommender_system_test_AB_test.ipynb)") была произведена оценка A/B тестирования. Проанализированы результаты теста. 
+
 В третьей части ("[Анализ БД сервиса для чтения книг](https://github.com/Gazonvazon/StudyProjects/tree/main/13_SQL_analisis)") был выполнен анализ БД сервиса для чтения книг. Все задачи выполнялись на исключительно на SQL. 
 
 Навыки и инструменты:
