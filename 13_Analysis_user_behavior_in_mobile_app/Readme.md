@@ -49,7 +49,9 @@ Python, Pandas, Matplotlib, Seaborn, Plotly, воронки событий, пр
 * подумать над активацией интереса у уже зарегистрированных пользователей
 
 **Приложения**
+
 ***Ссылка на дашборд:*** https://public.tableau.com/app/profile/sergey7394/viz/Mobile_project_16527002690410/Dashboard1?publish=yes
+
 ***Ссылка на презентацию:*** https://docs.google.com/presentation/d/1mpZXsEjvHsdHUG1hksdO0jHiYCqecTof/edit?usp=sharing&ouid=101051990045340775095&rtpof=true&sd=true
 
 
